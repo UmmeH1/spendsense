@@ -1,0 +1,256 @@
+date,merchant,category,type,amount,anomaly
+2026-09-18,Chase Credit Card Payment,credit card payment,spending,25.0,normal
+2026-09-18,CTLP*CANTEEN VENDI,other,spending,4.0,normal
+2026-09-18,STATE FARM,insurance,spending,154.05,normal
+2026-09-17,Discover Payment,credit card payment,spending,100.0,normal
+2026-09-17,Chase Credit Card Payment,credit card payment,spending,100.0,normal
+2026-09-17,TARGET T-1489,shopping,spending,21.63,normal
+2026-09-14,MURPHY EXPRESS,gas,spending,27.0,normal
+2026-09-14,DD *DOORDASH PHOQU,dining,spending,24.15,normal
+2026-09-14,AMAZON MKTPL*5L73Z,shopping,spending,29.2,normal
+2026-09-14,DD *DOORDASH PIZZA,dining,spending,48.05,flagged
+2026-09-08,Chase Credit Card Payment,credit card payment,spending,100.0,normal
+2026-09-08,Discover Payment,credit card payment,spending,50.0,normal
+2026-09-08,Zelle (sent),transfer,spending,30.0,normal
+2026-09-08,NTTA ONLINE,transportation,spending,7.44,normal
+2026-09-08,Amazon.com*5387X3S,shopping,spending,9.73,normal
+2026-09-08,IBROWS R US,other,spending,15.0,normal
+2026-09-08,ONLINE TRANSFER TO,transfer,spending,25.0,normal
+2026-09-08,ONLINE TRANSFER TO,transfer,spending,25.0,normal
+2026-09-08,IN-N-OUT PLANO,dining,spending,15.32,normal
+2026-09-08,TST* LA LA LAND KI,dining,spending,18.59,normal
+2026-09-04,H-E-B #818,other,spending,28.25,normal
+2026-09-04,AMAZON MKTPL*5Q4L6,shopping,spending,38.55,normal
+2026-09-04,SEPHORA.COM,shopping,spending,20.57,normal
+2026-09-03,Discover Payment,credit card payment,spending,200.0,normal
+2026-09-03,Chase Credit Card Payment,credit card payment,spending,200.0,normal
+2026-09-03,Kindle Unltd*1R50U,shopping,spending,12.98,normal
+2026-09-02,MCDONALD'S M2198,dining,spending,9.73,normal
+2026-09-02,LA MADELEINE #106,dining,spending,13.95,normal
+2026-08-31,CRUNCH FIT CLUB,fitness,spending,19.75,normal
+2026-08-31,RECURRING PAYMENT AUTHORIZED,other,spending,2.99,normal
+2026-08-31,AMAZON MKTPL*5O55F,shopping,spending,6.48,flagged
+2026-08-31,TST*PAX & BENEFICI,dining,spending,12.99,normal
+2026-08-27,TST* TOO THAI,dining,spending,44.8,flagged
+2026-08-25,PIADA - 31,dining,spending,9.74,normal
+2026-08-24,Discover Payment,credit card payment,spending,700.0,flagged
+2026-08-24,Chase Credit Card Payment,credit card payment,spending,242.59,normal
+2026-08-24,Discover Payment,credit card payment,spending,100.0,normal
+2026-08-24,Zelle (sent),transfer,spending,7.5,normal
+2026-08-24,CHIPOTLE 1809,other,spending,12.94,normal
+2026-08-24,RECURRING PAYMENT AUTHORIZED,other,spending,3.24,normal
+2026-08-24,Zelle (sent),transfer,spending,11.0,normal
+2026-08-24,MONEY TRANSFER AUTHORIZED,transfer,spending,13.0,normal
+2026-08-24,DOMINO'S 6933,dining,spending,5.36,normal
+2026-08-21,ONLINE TRANSFER TO,transfer,spending,250.0,flagged
+2026-08-20,Chase Credit Card Payment,credit card payment,spending,50.0,normal
+2026-08-20,Chase Credit Card Payment,credit card payment,spending,50.0,normal
+2026-08-20,KROGER #0563 4017 14TH ST PLANO,groceries,spending,2.78,normal
+2026-08-19,Discover Payment,credit card payment,spending,54.0,normal
+2026-08-19,ONLINE TRANSFER TO,transfer,spending,50.0,normal
+2026-08-19,CTLP*AIR/TIRE OR V,services,spending,2.15,normal
+2026-08-19,CHICK-FIL-A,dining,spending,5.93,normal
+2026-08-18,AMAZON MKTPL*5A3O0,shopping,spending,18.17,normal
+2026-08-17,Zelle (sent),transfer,spending,9.0,normal
+2026-08-17,MITSUWA MARKETPLAC,groceries,spending,10.81,normal
+2026-08-17,TST*ROCCOS ITALIAN,dining,spending,18.39,normal
+2026-08-14,20284 CRUNCH EAST,fitness,spending,0.01,normal
+2026-08-13,MURPHY EXPRESS 893,gas,spending,32.39,normal
+2026-08-12,IN-N-OUT GARLAND,dining,spending,13.53,normal
+2026-08-11,Zelle (sent),transfer,spending,11.0,normal
+2026-08-10,20284 CRUNCH EAST,fitness,spending,34.9,normal
+2026-08-10,20284 CRUNCH EAST,fitness,spending,34.9,normal
+2026-08-07,STATE FARM,insurance,spending,154.05,normal
+2026-08-06,Chase Credit Card Payment,credit card payment,spending,300.0,normal
+2026-08-06,Zelle (sent),transfer,spending,20.0,normal
+2026-08-06,SQ *THAI NOODLE WA,dining,spending,23.29,normal
+2026-08-05,ONLINE TRANSFER TO,transfer,spending,50.0,normal
+2026-08-03,TARGET T-1489,shopping,spending,16.31,normal
+2026-08-03,Kindle Unltd*SP2N7,shopping,spending,12.98,normal
+2026-07-31,RECURRING PAYMENT AUTHORIZED,other,spending,2.99,normal
+2026-07-31,CHICK-FIL-A,dining,spending,11.57,normal
+2026-07-30,391 Lush Stonebria,shopping,spending,54.23,flagged
+2026-07-29,Chase Credit Card Payment,credit card payment,spending,67.45,normal
+2026-07-27,KROGER #0563,groceries,spending,78.25,normal
+2026-07-27,TST*1418 COFFEE -,dining,spending,9.33,normal
+2026-07-27,TARGET T-2516,shopping,spending,10.99,normal
+2026-07-27,PEACE NAIL SPA,personal care,spending,54.0,normal
+2026-07-27,FIRST WATCH 0303 P,dining,spending,22.16,normal
+2026-07-24,AMAZON MKTPL*NU3R8,shopping,spending,26.29,normal
+2026-07-24,CHICK-FIL-A #02493,dining,spending,11.68,normal
+2026-07-23,Chase Credit Card Payment,credit card payment,spending,200.0,normal
+2026-07-23,Chase Credit Card Payment,credit card payment,spending,100.0,normal
+2026-07-23,Chase Credit Card Payment,credit card payment,spending,45.0,normal
+2026-07-23,PARCHMENT-UNIV DOC,services,spending,5.0,normal
+2026-07-22,ONLINE TRANSFER TO,transfer,spending,50.0,normal
+2026-07-22,JERSEY MIKES 15107,other,spending,13.79,normal
+2026-07-21,Zelle (sent),transfer,spending,10.0,normal
+2026-07-21,RACETRAC 2467,gas,spending,31.95,normal
+2026-07-20,RECURRING PAYMENT AUTHORIZED,other,spending,6.48,normal
+2026-07-20,IBROWS R US,other,spending,15.0,normal
+2026-07-20,DUNKIN #353274,other,spending,25.97,normal
+2026-07-16,TikTok Shop,shopping,spending,24.06,normal
+2026-07-16,Texapolitan Pizza,dining,spending,23.82,normal
+2026-07-15,TX DPS DL OFFICE,other,spending,11.0,normal
+2026-07-15,CHICK-FIL-A #02493,dining,spending,8.97,normal
+2026-07-15,ULTA #1489,other,spending,25.98,normal
+2026-07-13,MURPHY EXPRESS,gas,spending,31.76,normal
+2026-07-13,TST* MOTHER OF ALL,dining,spending,28.12,normal
+2026-07-13,TST* THE EXCHANGE,dining,spending,31.16,normal
+2026-07-13,VAPOR LAB - FRISCO,other,spending,14.06,normal
+2026-07-13,MONEY TRANSFER AUTHORIZED,transfer,spending,10.0,normal
+2026-07-10,Chase Credit Card Payment,credit card payment,spending,50.0,normal
+2026-07-10,ONLINE TRANSFER TO,transfer,spending,50.0,normal
+2026-07-10,STATE FARM,insurance,spending,154.05,normal
+2026-07-10,TST*PINE ISLE,dining,spending,22.65,normal
+2026-07-09,Discover Payment,credit card payment,spending,50.71,normal
+2026-07-09,Kindle Unltd*6T7RU,shopping,spending,12.98,normal
+2026-07-09,SQ *HYPHEN SPACE,personal care,spending,14.32,normal
+2026-07-09,20284 CRUNCH EAST,fitness,spending,34.9,normal
+2026-07-07,RECURRING PAYMENT AUTHORIZED,other,spending,2.99,normal
+2026-07-01,Activate Plano,other,spending,22.72,normal
+2026-07-01,IN-N-OUT PLANO,dining,spending,11.04,normal
+2026-06-30,QT 906 OUTSIDE,other,spending,29.69,normal
+2026-06-30,TST* MANGO MANGO D,dining,spending,8.39,normal
+2026-06-30,Swig Garland TX,dining,spending,8.98,normal
+2026-06-30,AMAZON MKTPL*EZ7SH,shopping,spending,18.39,normal
+2026-06-30,20284 CRUNCH EAST,fitness,spending,64.94,flagged
+2026-06-29,FIRST WATCH 0236 P,dining,spending,21.62,normal
+2026-06-29,TIKTOK SHOP,shopping,spending,20.76,normal
+2026-06-26,SQ *EARTH OF INK,other,spending,50.0,normal
+2026-06-25,Chase Credit Card Payment,credit card payment,spending,300.0,normal
+2026-06-24,ONLINE TRANSFER TO,transfer,spending,50.0,normal
+2026-06-24,MONEY TRANSFER AUTHORIZED,transfer,spending,9.0,normal
+2026-06-23,LAVENDER NAILS,personal care,spending,69.0,flagged
+2026-06-22,AMAZON MKTPL*CU9M4,shopping,spending,40.44,normal
+2026-06-22,CTLP*AIR/TIRE OR V,services,spending,2.15,normal
+2026-06-22,MURPHY EXPRESS,gas,spending,30.94,normal
+2026-06-22,SQ *PALETERIA SUPE,other,spending,15.73,normal
+2026-06-17,10137 CAVA RICHARD,other,spending,15.53,normal
+2026-06-16,Discover Payment,credit card payment,spending,35.0,normal
+2026-06-16,Chase Credit Card Payment,credit card payment,spending,40.0,normal
+2026-06-15,RECURRING PAYMENT AUTHORIZED,other,spending,2.95,normal
+2026-06-15,AMAZON MKTPL*Y35M3,shopping,spending,20.56,normal
+2026-06-15,SQ *SCOOP N' BUNS,other,spending,10.82,normal
+2026-06-15,LOWE'S #2929,other,spending,16.53,normal
+2026-06-15,SONIC DRIVE IN #12,other,spending,5.94,normal
+2026-06-15,STARBUCKS STORE 67,other,spending,21.81,normal
+2026-06-15,LUX SALON,personal care,spending,12.0,normal
+2026-06-12,LOWE'S #2929,other,spending,16.53,normal
+2026-06-12,MURPHY EXPRESS,gas,spending,1.99,normal
+2026-06-12,CHI-SPOT RICHARDSO,other,spending,60.56,flagged
+2026-06-12,IN-N-OUT GARLAND,dining,spending,11.04,normal
+2026-06-12,STATE FARM,insurance,spending,154.05,normal
+2026-06-11,Zelle (sent),transfer,spending,10.0,normal
+2026-06-11,SQ *BIGDASH GARLAN,other,spending,8.27,normal
+2026-06-11,7-11 #37212,other,spending,30.39,normal
+2026-06-10,Zelle (sent),transfer,spending,8.0,normal
+2026-06-09,20284 CRUNCH EAST,fitness,spending,34.71,normal
+2026-06-08,H MART PLANO LLC,other,spending,3.24,normal
+2026-06-08,IN-N-OUT FRISCO,dining,spending,4.28,flagged
+2026-06-05,MURPHY EXPRESS,gas,spending,31.2,normal
+2026-06-03,Kindle Unltd*2E4C8,shopping,spending,12.98,normal
+2026-06-03,JERSEY MIKES 15140,other,spending,13.25,normal
+2026-06-02,7-ELEVEN,gas,spending,4.96,normal
+2026-06-02,STRIKE+REEL,other,spending,18.4,normal
+2026-06-02,RECURRING PAYMENT AUTHORIZED,other,spending,2.99,normal
+2026-06-01,112 BRAUMS STORE,other,spending,10.15,normal
+2026-06-01,Zelle (sent),transfer,spending,14.0,normal
+2026-06-01,WAL-MART #3199,other,spending,16.97,normal
+2026-06-01,DD *DOORDASH NOODL,dining,spending,16.0,normal
+2026-05-29,Chase Credit Card Payment,credit card payment,spending,100.0,normal
+2026-05-29,Swig Garland TX,dining,spending,16.0,normal
+2026-05-29,TIKTOK SHOP,shopping,spending,24.38,normal
+2026-05-28,Discover Payment,credit card payment,spending,294.26,normal
+2026-05-28,TARGET T-1489,shopping,spending,27.05,normal
+2026-05-28,TEA DADDY GARLAND,other,spending,23.71,normal
+2026-05-27,Zelle (sent),transfer,spending,30.0,normal
+2026-05-26,TST* TWISTED ROOT,dining,spending,21.65,normal
+2026-05-26,MONEY TRANSFER AUTHORIZED,transfer,spending,150.99,normal
+2026-05-26,TST* NOTHING BUNDT,dining,spending,31.04,normal
+2026-05-22,SQ *ARWA COFFEE MU,dining,spending,5.68,normal
+2026-05-22,MONEY TRANSFER AUTHORIZED,transfer,spending,9.0,normal
+2026-05-21,MCDONALD'S M2198,dining,spending,6.27,normal
+2026-05-21,TST*MANNYS MEXICAN,dining,spending,80.78,flagged
+2026-05-19,7-ELEVEN,gas,spending,38.23,flagged
+2026-05-18,UBR* PENDING.UBER.COM,transportation,spending,15.96,normal
+2026-05-18,ATM WITHDRAWAL AUTHORIZED,other,spending,2000.0,flagged
+2026-05-18,STATE FARM,insurance,spending,154.04,normal
+2026-05-15,Zelle (sent),transfer,spending,1000.0,flagged
+2026-05-15,CHILI'S FIREWHEEL,other,spending,24.79,normal
+2026-05-15,DD *DOORDASH TEADA,dining,spending,21.46,normal
+2026-05-14,Chase Credit Card Payment,credit card payment,spending,200.0,normal
+2026-05-12,Discover Payment,credit card payment,spending,1.61,flagged
+2026-05-12,Zelle (sent),transfer,spending,20.0,normal
+2026-05-11,Zelle (sent),transfer,spending,15.0,normal
+2026-05-11,CVS/PHARMACY #01 01792--4 Plano,other,spending,6.44,normal
+2026-05-11,QDI*QUEST DIAGNOST,other,spending,5.0,normal
+2026-05-11,TEA DADDY RICHARDS,other,spending,5.34,normal
+2026-05-11,MONEY TRANSFER AUTHORIZED,transfer,spending,15.0,normal
+2026-05-08,20284 CRUNCH EAST,fitness,spending,34.71,normal
+2026-05-07,DD *DOORDASH CAVA,dining,spending,20.2,normal
+2026-05-06,TST*CLIFF COFFEE,dining,spending,7.03,normal
+2026-05-05,UBR* PENDING.UBER.COM,transportation,spending,17.94,normal
+2026-05-04,Kindle Unltd*AU009,shopping,spending,12.98,normal
+2026-05-04,RECURRING PAYMENT AUTHORIZED,other,spending,2.99,normal
+2026-04-30,Discover Payment,credit card payment,spending,486.32,flagged
+2026-04-28,AMAZON MKTPL*BJ43L,shopping,spending,15.1,normal
+2026-04-28,PAYPAL *ULPURA ULP,other,spending,113.22,flagged
+2026-04-27,UBR* PENDING.UBER.COM,transportation,spending,17.79,normal
+2026-04-27,SP MODFRAGRANCES,other,spending,27.87,normal
+2026-04-27,Zelle (sent),transfer,spending,20.0,normal
+2026-04-24,MONEY TRANSFER AUTHORIZED,transfer,spending,12.0,normal
+2026-04-23,CHEVRON 0303354,gas,spending,3.24,normal
+2026-04-20,SAREE DESTINATION LLC,other,spending,146.66,flagged
+2026-04-20,WM SUPERCENTER #2973,other,spending,0.84,normal
+2026-04-20,WM SUPERCENTER #2973,other,spending,11.1,normal
+2026-04-20,HEENA SALON,personal care,spending,6.0,normal
+2026-04-20,AMAZON MKTPL*BS6H3,shopping,spending,10.81,normal
+2026-04-20,ULTA.COM,other,spending,22.69,normal
+2026-04-20,AMAZON MKTPL*BY3KK,shopping,spending,45.97,flagged
+2026-04-17,Chase Credit Card Payment,credit card payment,spending,200.0,normal
+2026-04-17,COSTCO WHSE #0664,other,spending,108.5,flagged
+2026-04-17,Zelle (sent),transfer,spending,34.0,normal
+2026-04-17,THAI JASMINE THAI,dining,spending,38.97,flagged
+2026-04-17,TST*CLIFF COFFEE,dining,spending,8.03,normal
+2026-04-16,CTLP*CANTEEN VENDI,other,spending,2.85,normal
+2026-04-16,PARCHMENT-UNIV DOC,services,spending,5.0,normal
+2026-04-16,PRESTON'S CAFE,dining,spending,29.21,normal
+2026-04-15,ONLINE TRANSFER TO,transfer,spending,50.0,normal
+2026-04-14,Zelle (sent),transfer,spending,30.0,normal
+2026-04-14,SQ *COFFEE U,dining,spending,12.99,normal
+2026-04-14,APPLE.COM/BILL,other,spending,1.07,normal
+2026-04-13,KROGER FUEL CTR 4017 14TH PLANO,groceries,spending,20.05,normal
+2026-04-13,ONLINE TRANSFER TO,transfer,spending,100.0,normal
+2026-04-13,DD *DOORDASH LIMEN,dining,spending,29.36,normal
+2026-04-10,HOLLISTER CO.,other,spending,9.43,normal
+2026-04-08,ATM WITHDRAWAL AUTHORIZED,other,spending,70.0,flagged
+2026-04-08,20284 CRUNCH EAST,fitness,spending,34.71,normal
+2026-04-07,STATE FARM,insurance,spending,176.0,flagged
+2026-04-06,Discover Payment,credit card payment,spending,121.35,normal
+2026-04-06,Kindle Unltd*JE3K6,shopping,spending,12.98,normal
+2026-04-06,PRESTON'S CAFE,dining,spending,9.12,normal
+2026-04-03,TIKTOK SHOP,shopping,spending,14.59,normal
+2026-04-02,Chase Credit Card Payment,credit card payment,spending,100.0,normal
+2026-04-02,CHICK-FIL-A #04472,dining,spending,7.99,normal
+2026-04-01,ONLINE TRANSFER TO,transfer,spending,562.0,flagged
+2026-04-01,SEPHORA PRESTON PARK,shopping,spending,25.98,normal
+2026-04-01,LAVENDER NAILS,personal care,spending,17.25,normal
+2026-03-31,ONLINE TRANSFER TO,transfer,spending,50.0,normal
+2026-03-31,RECURRING PAYMENT AUTHORIZED,other,spending,2.99,normal
+2026-03-30,Swig Murphy Crossi,dining,spending,5.49,normal
+2026-03-30,CTLP*CSC SERVICEWO,services,spending,3.0,normal
+2026-03-30,CTLP*CSC SERVICEWO,services,spending,3.0,normal
+2026-03-30,WAL-MART #2973,other,spending,23.28,normal
+2026-03-30,CARNATION AUTO SPA,personal care,spending,11.0,normal
+2026-03-30,TST*PAX & BENEFICI,dining,spending,16.24,normal
+2026-03-26,Zelle (sent),transfer,spending,60.0,normal
+2026-03-26,ONLINE TRANSFER TO,transfer,spending,200.0,flagged
+2026-03-26,WINGSTOP 0937,other,spending,15.78,normal
+2026-03-26,TST*OG CHICKEN AND,dining,spending,30.28,normal
+2026-03-26,TST*OG CHICKEN AND,dining,spending,17.3,normal
+2026-03-25,TST*MIKES CHICKEN,dining,spending,21.87,normal
+2026-03-24,WALMART.COM,shopping,spending,20.98,normal
+2026-03-23,SPECS #190,other,spending,10.81,normal
+2026-03-23,ONLINE TRANSFER TO,transfer,spending,50.0,normal
+2026-03-23,MONEY TRANSFER AUTHORIZED,transfer,spending,10.0,normal
